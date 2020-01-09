@@ -1,0 +1,2 @@
+Plugin-SymbolicName:sysinfo
+Plugin-Version:1.0.0

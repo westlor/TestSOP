@@ -1,0 +1,2 @@
+Plugin-SymbolicName:hotplug
+Plugin-Version:1.0.0
